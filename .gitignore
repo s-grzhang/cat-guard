@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editor settings (PyCharm)
+.idea/
+
+# Personal data: recorded keystrokes and lock history
+keylog.csv
+cat_guard.log
+
+# Scratch files
+msg.txt
